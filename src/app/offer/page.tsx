@@ -1,7 +1,5 @@
 "use client";
 
-import { Container } from "@/components";
-
 export default function OfferPage() {
   return (
     <!doctype html>
