@@ -38,7 +38,7 @@ export const Footer = ({ className }: Props) => {
                 href="/terms"
                 className="text-white/60 hover:text-white/80 transition-colors"
               >
-                Пользовательское соглашение
+                Политика конфиденциальности
               </Link>
               <Link
                 href="/offer"

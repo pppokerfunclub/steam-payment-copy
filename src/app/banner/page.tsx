@@ -51,7 +51,7 @@ export default function BannerPage() {
               href="/terms"
               className="inline-flex items-center justify-center px-8 py-3 border border-[#313C42] hover:border-[#0391F5] text-white/80 hover:text-white font-semibold rounded-lg transition-colors duration-300"
             >
-              Пользовательское соглашение
+              Политика конфиденциальности
             </Link> */}
           </div>
 
