@@ -15,22 +15,6 @@ export const Footer = ({ className }: Props) => {
       )}
     >
       <div className="max-w-4xl mx-auto">
-        <div className="flex flex-col md:flex-row justify-between items-start text-white/60 text-sm gap-6">
-          <div className="space-y-1">
-            <p className="font-semibold text-white/80">ООО «Космо-АйТи»</p>
-            <p>ИНН: 02609202210030</p>
-            <p>ОКПО: 31571570</p>
-          </div>
-          <div className="text-left md:text-right space-y-1">
-            <p>
-              Регистрационный орган: Министерство юстиции Кыргызской Республики
-            </p>
-            <p>
-              Юридический адрес: Кыргызская Республика, 720007, г. Бишкек, ул.
-              Киевская, 112/5
-            </p>
-          </div>
-        </div>
         <div className="mt-6 pt-4 border-t border-[#313C42]">
           <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
             <div className="flex flex-wrap gap-6 text-sm">
@@ -47,9 +31,6 @@ export const Footer = ({ className }: Props) => {
                 Публичная оферта
               </Link>
             </div>
-            <p className="text-white/40 text-xs">
-              © 2024 ООО «Космо-АйТи». Все права защищены.
-            </p>
           </div>
         </div>
       </div>
